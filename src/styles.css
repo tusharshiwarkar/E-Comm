@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     font-family: sans-serif;
-    background-color: #292E49 ;
+    background-color: #f7f8fa ;
 }
 .container{
     margin-left: 5%;
@@ -45,7 +45,7 @@ body{
     color: red;
     font-size: 12px;
     margin-top: -20px;
-   
+
 }
 button:disabled{
     cursor: not-allowed;
