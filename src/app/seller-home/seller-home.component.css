@@ -1,0 +1,27 @@
+table{
+    text-align: left;
+    color: whitesmoke;
+    border-collapse: collapse;
+
+}
+table td, table th{
+    border: 1px solid whitesmoke;
+    padding: 10px;
+    min-height: 160px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.adjust-update-link{
+    margin-left: 10px;
+}
+.product-list{
+    margin-bottom: 100px;
+}
+h1{
+    color: whitesmoke;
+}
+.delete-product{
+    cursor: pointer;
+}

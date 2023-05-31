@@ -1,0 +1,8 @@
+//  if(result && result.body && result.body.length){
+  //   console.log("user logged in")
+
+  //   localStorage.setItem('seller', JSON.stringify(result.body));
+  //   this.router.navigate(['seller-home']);
+  // }else{
+  //   console.log("login failed")
+  // }

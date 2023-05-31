@@ -1,0 +1,280 @@
+{
+  "seller": [
+    {
+      "id": 1
+    },
+    {
+      "name": "krishna",
+      "password": "Tushar@12",
+      "email": "krishna12@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "peter",
+      "password": "Tushar@12",
+      "email": "peter!2@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "chhaya",
+      "password": "Tushar@12",
+      "email": "chhaya12@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "alexa",
+      "password": "Tushar@12",
+      "email": "alexa12@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "alexa",
+      "password": "Tushar@12",
+      "email": "alexa12@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "aaru",
+      "password": "Tushar@12",
+      "email": "aaru12@test.",
+      "id": 9
+    },
+    {
+      "name": "Rama",
+      "password": "Tushar@12",
+      "email": "ramaji12@test.com",
+      "id": 10
+    },
+    {
+      "name": "chhaya",
+      "password": "Tushar@12",
+      "email": "chhaya12@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "chhaya",
+      "password": "Tushar@12",
+      "email": "chhaya12@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "jai",
+      "password": "Tushar@12",
+      "email": "jai12@test.com",
+      "id": 13
+    }
+  ],
+  "products": [
+    {
+      "name": "Nike Shoe",
+      "price": "4999",
+      "color": "Black",
+      "category": "Shoes",
+      "description": "Best Product",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/3/3/w/-original-imaggcb3yyfn2hpz.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "name": "Iphone 12",
+      "price": "78000",
+      "color": "White",
+      "category": "Mobile",
+      "description": "iPhone 12 is excellent product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "68000",
+      "color": "sliver",
+      "category": "Laptop",
+      "description": "HP laptop is good product",
+      "image": "https://cdn.wallpapersafari.com/63/81/U6gJT4.jpg",
+      "id": 3
+    },
+    {
+      "name": "Fire Bolt Smart Watch",
+      "price": "3500",
+      "color": "Black",
+      "category": "Smart Watch",
+      "description": "Fire Bolt Smart Watch is Awesome Product",
+      "image": "https://m.media-amazon.com/images/I/61j67IC2mnL._SL1500_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Roadster Shirt",
+      "price": "2200",
+      "color": "Green + Black",
+      "category": "Cloth",
+      "description": "Roadster Shirt ",
+      "image": "https://i.pinimg.com/originals/f4/08/f0/f408f0294e84c2c22343e8468d21a605.jpg",
+      "id": 5
+    },
+    {
+      "name": "Levi's Jeans",
+      "price": "3999",
+      "color": "Blue",
+      "category": "Cloth",
+      "description": "Levi's jeans very synthetic ",
+      "image": "https://grazia.wwmindia.com/content/2021/oct/levis21633612266.jpg",
+      "id": 6
+    },
+    {
+      "name": "HRX T-Shirt",
+      "price": "1299",
+      "color": "Gray",
+      "category": "Cloth",
+      "description": "HRX T-Shirt ",
+      "image": "https://assets.myntassets.com/fl_progressive/h_960,q_80,w_720/v1/assets/images/2314372/2018/6/19/29e8ddfd-6f5f-43fd-8b71-dfa8ac6cef681529385860869-HRX-by-Hrithik-Roshan-Men-Charcoal-Grey-Slim-Advanced-Rapid--1.jpg",
+      "id": 7
+    },
+    {
+      "name": "A50 Samsung ",
+      "price": "35000",
+      "color": "Black",
+      "category": "Mobile",
+      "description": "A50 Samsung Mobile New In Market ",
+      "image": "https://ae01.alicdn.com/kf/H22f819202cc24e6dbbcebbc51e12691bu/Samsung-Galaxy-A50-A505F-A505FN-2SIM-Unlocked-Mobile-Phone-6-4-4GB-RAM-128GB-ROM-Octa.jpg",
+      "id": 8
+    },
+    {
+      "name": "LG Washing Machine",
+      "price": "4699",
+      "color": "Sliver",
+      "category": "Washing Machine",
+      "description": "LG Washing Machine ",
+      "image": "https://www.lg.com/in/images/washing-machines/md07526877/gallery/FHD0905SWS-Washing-Machine-Front-View-Open-D-02.jpg",
+      "id": 9
+    },
+    {
+      "name": "Wrogn College Bag",
+      "price": "1999",
+      "color": "Brown",
+      "category": "Bag",
+      "description": "Wrogn Bag is best product",
+      "image": "https://rukminim1.flixcart.com/image/832/832/ktszgy80/backpack/j/g/c/arc-backpack-unisex-with-rain-cover-w-040-backpack-wrogn-original-imag72jzyjggcsyb.jpeg?q=70",
+      "id": 10
+    },
+    {
+      "name": "Milton Water Bottle",
+      "price": "1299",
+      "color": "Brown",
+      "category": "Bottle",
+      "description": "Milton bottle awesome product",
+      "image": "https://mtechmart.com/images/thumbs/0006267_milton-mighty-800-stainless-steel-water-bottle-790-ml.jpeg",
+      "id": 11
+    }
+  ],
+  "Users": [
+    {
+      "name": "Tushar Shiwarkar",
+      "email": "tusharshiwarkar12@gmail.com",
+      "password": "Tushar@12",
+      "id": 1
+    },
+    {
+      "name": "Kush",
+      "email": "kush12@test.com",
+      "password": "Tushar@12",
+      "id": 2
+    },
+    {
+      "name": "Tony",
+      "email": "tony12@test.com",
+      "password": "Tushar@12",
+      "id": 3
+    },
+    {
+      "name": "pooja",
+      "email": "pooja12@test.com",
+      "password": "Tushar@12",
+      "id": 4
+    },
+    {
+      "name": "Abhi",
+      "email": "abhi12@user.com",
+      "password": "Tushar@12",
+      "id": 5
+    },
+    {
+      "name": "Srushti",
+      "email": "srushti12@test.com",
+      "password": "Tushar@12",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "name": "Nike Shoe",
+      "price": "4999",
+      "color": "Black",
+      "category": "Shoes",
+      "description": "Best Product",
+      "image": "https://rukminim1.flixcart.com/image/612/612/xif0q/shoe/3/3/w/-original-imaggcb3yyfn2hpz.jpeg?q=70",
+      "quantity": 1,
+      "productId": 1,
+      "userId": null,
+      "id": 1
+    },
+    {
+      "name": "Iphone 12",
+      "price": "78000",
+      "color": "White",
+      "category": "Mobile",
+      "description": "iPhone 12 is excellent product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 2,
+      "userId": null,
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "68000",
+      "color": "sliver",
+      "category": "Laptop",
+      "description": "HP laptop is good product",
+      "image": "https://cdn.wallpapersafari.com/63/81/U6gJT4.jpg",
+      "quantity": 1,
+      "productId": 3,
+      "userId": null,
+      "id": 3
+    },
+    {
+      "name": "Fire Bolt Smart Watch",
+      "price": "3500",
+      "color": "Black",
+      "category": "Smart Watch",
+      "description": "Fire Bolt Smart Watch is Awesome Product",
+      "image": "https://m.media-amazon.com/images/I/61j67IC2mnL._SL1500_.jpg",
+      "quantity": 1,
+      "productId": 4,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Fire Bolt Smart Watch",
+      "price": "3500",
+      "color": "Black",
+      "category": "Smart Watch",
+      "description": "Fire Bolt Smart Watch is Awesome Product",
+      "image": "https://m.media-amazon.com/images/I/61j67IC2mnL._SL1500_.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 4,
+      "id": 5
+    },
+    {
+      "name": "Fire Bolt Smart Watch",
+      "price": "3500",
+      "color": "Black",
+      "category": "Smart Watch",
+      "description": "Fire Bolt Smart Watch is Awesome Product",
+      "image": "https://m.media-amazon.com/images/I/61j67IC2mnL._SL1500_.jpg",
+      "quantity": 6,
+      "userId": 1,
+      "productId": 4,
+      "id": 6
+    }
+  ]
+}
